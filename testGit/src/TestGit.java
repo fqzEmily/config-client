@@ -13,6 +13,6 @@ public class TestGit {
     }
 
     private static String test2(){
-        return "hello test22222";
+        return "hello test2";
     }
 }
