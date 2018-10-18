@@ -9,7 +9,7 @@ public class TestGit {
     }
 
     private static String test1(){
-        return "hello test111";
+        return "hello test1";
     }
 
     private static String test2(){
